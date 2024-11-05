@@ -9,15 +9,7 @@ MOV AX,@DATA
 MOV DS,AX
 ;enter your code here
        
-mov ax,5
-mov bx,3
-mov cx,ax 
-mov dx,bx
 
-add ax,bx
-sub ax,cx
-add bx,cx
-sub bx,dx
 
  
 ;exit to DOS
